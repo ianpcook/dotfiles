@@ -1,4 +1,6 @@
-# Dries's Dotfiles
+# Ian's Dotfiles
+
+My repo is a direct ripoff, er, fork of Dries' Dotfiles. The information below is from his repo. I'm learning from him, so I want to keep as much as I can of his knowledge and work. Mostly I've just been personalizing things so it has my name instead of his in the files. 
 
 This repository serves as my way to help me setup and maintain my Mac. It takes the effort out of installing everything manually. Everything needed to install my preferred setup of macOS is detailed in this readme. Feel free to explore, learn and copy parts for your own dotfiles. Enjoy! :smile:
 
