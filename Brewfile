@@ -44,10 +44,9 @@ cask 'firefox'
 cask 'github'
 cask 'gpg-suite'
 cask 'insomnia'
+cask 'iterm2'
 cask 'java'
 cask 'mysqlworkbench'
-cask 'phpstorm'
-cask 'screenflow'
 cask 'skype'
 cask 'slack'
 cask 'sublime-text'
@@ -76,10 +75,3 @@ cask 'font-source-code-pro'
 cask 'font-source-sans-pro'
 cask 'font-source-serif-pro'
 
-# Mac App Store
-mas 'Byword', id: 420212497
-mas 'Giphy Capture', id: 668208984
-mas 'Sip', id: 507257563
-mas 'Spark', id: 1176895641
-mas 'The Unarchiver', id: 425424353
-mas 'Things', id: 904280696
